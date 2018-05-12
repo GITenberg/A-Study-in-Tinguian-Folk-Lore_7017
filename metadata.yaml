@@ -1,4 +1,8 @@
 _repo: A-Study-in-Tinguian-Folk-Lore_7017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cole, Fay-Cooper
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4415
     wikipedia: http://www.mnsu.edu/emuseum/information/biography/abcde/cole_fay-cooper.html
 description: Thesis
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7017#A-Study-in-Tinguian-Folk-Lore
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
